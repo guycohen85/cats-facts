@@ -8,6 +8,9 @@
     </head>
     <body>
         <div id="app">
+            <div class="container mx-auto">
+                <h1>sdfgsdfg</h1>
+            </div>
         </div>
         <script src="/js/app.js"></script>
     </body>
