@@ -13,6 +13,7 @@ https://github.com/guycohen85/cats-facts/commits/main
 - PHP - Laravel
 - JavaScript - Vue + Vuex
 - CSS - Tailwind
+- DigitalOcean - Apache
     
 ## Exercise instructions
 ### Client
