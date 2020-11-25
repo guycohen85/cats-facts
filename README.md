@@ -2,6 +2,9 @@
 List of cat facts using the Facts API 
 https://cat-fact.herokuapp.com/facts
 
+The progress of the project can be seen by the commits: 
+https://github.com/guycohen85/cats-facts/commits/main
+
 ## Tecnologies
 - PHP - Laravel
 - JavaScript - Vue + Vuex
